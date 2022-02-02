@@ -12,7 +12,8 @@ Developer davi = Developer
         .SoftwareArchitecture()
         .DomainDrivenDesign()
         .DistributedSystems()
-        .LinkedIn("https://www.linkedin.com/in/davi-soares-a7ba79221/"));
+        .LinkedIn("https://www.linkedin.com/in/davi-soares-a7ba79221/")
+        .Email(davisoarescoura@gmail.com));
 
 while (davi.HasLife)
 {
