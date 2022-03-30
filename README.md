@@ -5,9 +5,10 @@ Developer davi = Developer
     .BornIn(Countries.Brazil, year: 1997)
     .CodesIn(language => language
         .JavaScript()
-        .HTML()
-        .CSS()
-        .React())
+        .TypeScript()
+        .NodeJs()
+        .React()
+        .SQL())
     .Interested(@in => @in
         .SoftwareArchitecture()
         .DomainDrivenDesign()
